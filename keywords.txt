@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map GT20L16J1Y
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GT20L16J1Y	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setTextSize	KEYWORD2
+setTextColor	KEYWORD2
+print	KEYWORD2
+println	KEYWORD2
+setUseBackground	KEYWORD2
+setUseGFXASCII	KEYWORD2
+enter	KEYWORD2
