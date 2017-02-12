@@ -15,7 +15,11 @@ It can be used with any graphics library using Adafruit GFX Library.
 Please refer to [Switch Science's Wiki](http://trac.switch-science.com/wiki/KanjiROM)
 
 ### Sketch
-to use with my [ili9328SPI](https://github.com/coord-e/ili9328SPI/) library.
+**Encoding of sketch has to be Shift-JIS to write Japanese directly in the sketch and display it on LCD**
+
+Please use external editor to change encoding of sketch in Arduino environment.
+
+The example code below is to use with my [ili9328SPI](https://github.com/coord-e/ili9328SPI/) library.
 
 (Any graphics library inherits [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library) can be used)
 
